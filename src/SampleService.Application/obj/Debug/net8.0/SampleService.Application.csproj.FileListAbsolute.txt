@@ -13,3 +13,4 @@ C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Application\obj\Debug
 C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Application\obj\Debug\net8.0\refint\SampleService.Application.dll
 C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Application\obj\Debug\net8.0\SampleService.Application.pdb
 c:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Application\obj\Debug\net8.0\ref\SampleService.Application.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Application\obj\Debug\net8.0\SampleService.Application.sourcelink.json

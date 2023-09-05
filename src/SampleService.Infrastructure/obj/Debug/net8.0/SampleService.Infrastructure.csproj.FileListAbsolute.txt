@@ -15,3 +15,4 @@ C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\De
 C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\refint\SampleService.Infrastructure.dll
 C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.pdb
 c:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\ref\SampleService.Infrastructure.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.sourcelink.json

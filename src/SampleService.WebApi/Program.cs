@@ -1,7 +1,16 @@
 using SampleService.Application;
 using SampleService.Infrastructure;
 
-var builder = WebApplication.CreateBuilder(args);
+
+var webApplicationOptions = new WebApplicationOptions
+{
+    ContentRootPath = AppContext.BaseDirectory,
+    Args = args,
+};
+
+var builder = WebApplication.CreateBuilder(webApplicationOptions);
+
+builder.Host.UseWindowsService(options => options.ServiceName = ServiceConstants.ServiceName);
 
 // Add services to the container.
 builder.Services.AddApplication();

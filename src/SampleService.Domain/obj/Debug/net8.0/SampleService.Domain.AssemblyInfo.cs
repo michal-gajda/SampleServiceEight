@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gajda Ltd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+097f21e7d329e7d37c3eb378edcb7e237e5f3b93")]
 [assembly: System.Reflection.AssemblyProductAttribute("SampleService.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SampleService.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

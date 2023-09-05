@@ -39,3 +39,7 @@ C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.WebApi\obj\Debug\net8
 C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.WebApi\obj\Debug\net8.0\SampleService.WebApi.pdb
 C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.WebApi\obj\Debug\net8.0\SampleService.WebApi.genruntimeconfig.cache
 C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.WebApi\obj\Debug\net8.0\ref\SampleService.WebApi.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.WebApi\obj\Debug\net8.0\SampleService.WebApi.sourcelink.json
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.WebApi\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll

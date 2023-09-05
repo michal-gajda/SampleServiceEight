@@ -9,3 +9,4 @@ C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8
 C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\refint\SampleService.Domain.dll
 C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\SampleService.Domain.pdb
 c:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\ref\SampleService.Domain.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\SampleService.Domain.sourcelink.json
