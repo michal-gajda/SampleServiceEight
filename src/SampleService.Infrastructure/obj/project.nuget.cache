@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0La3/c4BtpkrWWKnyX++GEdP4OK6vw2KAgYuQLSUsShBM+qSeVoHwMAOIHodhKEb4T8VZgtEHW6goTS90hfUw==",
+  "success": true,
+  "projectFilePath": "c:\\Workspaces\\DotNet8\\SampleServiceEight\\src\\SampleService.Infrastructure\\SampleService.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michal\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.configuration.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0-preview.7.23375.6\\microsoft.extensions.configuration.binder.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.logging.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.7.23375.6\\microsoft.extensions.options.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0-preview.7.23375.6\\microsoft.extensions.options.configurationextensions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.7.23375.6\\microsoft.extensions.primitives.8.0.0-preview.7.23375.6.nupkg.sha512"
+  ],
+  "logs": []
+}

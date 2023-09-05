@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Using Include="MediatR" />
+    <Using Include="Microsoft.Extensions.Logging" />
+    <Using Include="System.ComponentModel.DataAnnotations" />
+    <Using Include="System.Text.Json.Serialization" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="SampleService.Application.UnitTests" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0-preview.7.23375.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SampleService.Domain\SampleService.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+c:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\bin\Debug\net8.0\SampleService.Infrastructure.deps.json
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\bin\Debug\net8.0\SampleService.Infrastructure.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\bin\Debug\net8.0\SampleService.Infrastructure.pdb
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\bin\Debug\net8.0\SampleService.Application.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\bin\Debug\net8.0\SampleService.Domain.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\bin\Debug\net8.0\SampleService.Application.pdb
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\bin\Debug\net8.0\SampleService.Domain.pdb
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.csproj.AssemblyReference.cache
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.AssemblyInfoInputs.cache
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.AssemblyInfo.cs
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.csproj.CopyComplete
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\refint\SampleService.Infrastructure.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\SampleService.Infrastructure.pdb
+c:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Infrastructure\obj\Debug\net8.0\ref\SampleService.Infrastructure.dll

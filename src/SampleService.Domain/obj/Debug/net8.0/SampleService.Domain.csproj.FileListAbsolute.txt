@@ -1,0 +1,11 @@
+c:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\bin\Debug\net8.0\SampleService.Domain.deps.json
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\bin\Debug\net8.0\SampleService.Domain.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\bin\Debug\net8.0\SampleService.Domain.pdb
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\SampleService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\SampleService.Domain.AssemblyInfoInputs.cache
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\SampleService.Domain.AssemblyInfo.cs
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\SampleService.Domain.csproj.CoreCompileInputs.cache
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\SampleService.Domain.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\refint\SampleService.Domain.dll
+C:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\SampleService.Domain.pdb
+c:\Workspaces\DotNet8\SampleServiceEight\src\SampleService.Domain\obj\Debug\net8.0\ref\SampleService.Domain.dll

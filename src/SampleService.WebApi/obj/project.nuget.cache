@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxgCC1V8j8PauvtdhvTXiDeFQwCvIvmusq+2+qivMdIHTOQD+kwW07sF+fEcLY4T5TZND8Ea0/ZOhem2XgoLGg==",
+  "success": true,
+  "projectFilePath": "C:\\Workspaces\\DotNet8\\SampleServiceEight\\src\\SampleService.WebApi\\SampleService.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michal\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0-preview.7.23375.9\\microsoft.aspnetcore.openapi.8.0.0-preview.7.23375.9.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.configuration.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0-preview.7.23375.6\\microsoft.extensions.configuration.binder.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.logging.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.7.23375.6\\microsoft.extensions.options.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0-preview.7.23375.6\\microsoft.extensions.options.configurationextensions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.7.23375.6\\microsoft.extensions.primitives.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\michal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
